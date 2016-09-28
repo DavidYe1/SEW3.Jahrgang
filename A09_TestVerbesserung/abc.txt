@@ -1,0 +1,4 @@
+marke=BMW pS=20 kennzeichen=W-134 baujahr=1998
+marke=BMW pS=40 kennzeichen=W-134 baujahr=1998
+marke=VW pS=110 kennzeichen=W-134 baujahr=1998
+marke=BMW pS=110 kennzeichen=W-134 baujahr=1999

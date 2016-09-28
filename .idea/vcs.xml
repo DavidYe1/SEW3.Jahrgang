@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="" />
+    <mapping directory="$PROJECT_DIR$/A12_Set" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/A14_Git" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/A15_GitHub" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/A16_HelloWorldDSunaric" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/A18_Merge" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/A19_Junit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/A20_BlackboxTest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/T01_Container&amp;Stacks/Test33" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/T03_Testing&amp;Mocking" vcs="Git" />
+  </component>
+</project>

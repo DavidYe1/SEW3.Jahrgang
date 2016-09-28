@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/A01_Schuelerdaten_Sunaric/A01_Schuelerdaten_Sunaric.iml" filepath="$PROJECT_DIR$/A01_Schuelerdaten_Sunaric/A01_Schuelerdaten_Sunaric.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A02_Schuelerliste/A02_Schuelerliste.iml" filepath="$PROJECT_DIR$/A02_Schuelerliste/A02_Schuelerliste.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A03_SchuelerIO/A03_SchuelerIO.iml" filepath="$PROJECT_DIR$/A03_SchuelerIO/A03_SchuelerIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A04_ObjektSpeicher/A04_ObjektSpeicher.iml" filepath="$PROJECT_DIR$/A04_ObjektSpeicher/A04_ObjektSpeicher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A05_SchuelerlisteGenerisch/A05_SchuelerlisteGenerisch.iml" filepath="$PROJECT_DIR$/A05_SchuelerlisteGenerisch/A05_SchuelerlisteGenerisch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A06_LesenSchreiben Generisch/A06_LesenSchreiben Generisch.iml" filepath="$PROJECT_DIR$/A06_LesenSchreiben Generisch/A06_LesenSchreiben Generisch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A06_LinkedList/A06_LinkedList.iml" filepath="$PROJECT_DIR$/A06_LinkedList/A06_LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A07_LinkedList/A07_LinkedList.iml" filepath="$PROJECT_DIR$/A07_LinkedList/A07_LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A08_LinkedListIO/A08_LinkedListIO.iml" filepath="$PROJECT_DIR$/A08_LinkedListIO/A08_LinkedListIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A09_TestVerbesserung/A09_TestVerbesserung.iml" filepath="$PROJECT_DIR$/A09_TestVerbesserung/A09_TestVerbesserung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A10_Hashtabelle/A10_Hashtabelle.iml" filepath="$PROJECT_DIR$/A10_Hashtabelle/A10_Hashtabelle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A11_Stack/A11_Stack.iml" filepath="$PROJECT_DIR$/A11_Stack/A11_Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A12_Set/A12_Set.iml" filepath="$PROJECT_DIR$/A12_Set/A12_Set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A13_WienMarathon/A13_WienMarathon.iml" filepath="$PROJECT_DIR$/A13_WienMarathon/A13_WienMarathon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A14_Git/A14_Git.iml" filepath="$PROJECT_DIR$/A14_Git/A14_Git.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A15_GitHub/A15_GitHub.iml" filepath="$PROJECT_DIR$/A15_GitHub/A15_GitHub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A16_HelloWorldDSunaric/A16_HelloWorldDSunaric.iml" filepath="$PROJECT_DIR$/A16_HelloWorldDSunaric/A16_HelloWorldDSunaric.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A17_TestVerbesserung/A17_TestVerbesserung.iml" filepath="$PROJECT_DIR$/A17_TestVerbesserung/A17_TestVerbesserung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A18_Merge/A18_Merge.iml" filepath="$PROJECT_DIR$/A18_Merge/A18_Merge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A19_Junit/A19_Junit.iml" filepath="$PROJECT_DIR$/A19_Junit/A19_Junit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A20_BlackboxTest/A20_BlackBoxTest.iml" filepath="$PROJECT_DIR$/A20_BlackboxTest/A20_BlackBoxTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A21_Mocking/A21_Mocking.iml" filepath="$PROJECT_DIR$/A21_Mocking/A21_Mocking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A22_Rekursion/A22_Rekursion.iml" filepath="$PROJECT_DIR$/A22_Rekursion/A22_Rekursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A23_Rekursion/A23_Rekursion.iml" filepath="$PROJECT_DIR$/A23_Rekursion/A23_Rekursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A24_Testverbesserung/A24_Testverbesserung.iml" filepath="$PROJECT_DIR$/A24_Testverbesserung/A24_Testverbesserung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A25_RegularExpression/A25_RegularExpression.iml" filepath="$PROJECT_DIR$/A25_RegularExpression/A25_RegularExpression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/A26_RegularExpression/A26_RegularExpression.iml" filepath="$PROJECT_DIR$/A26_RegularExpression/A26_RegularExpression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T01_Container&amp;Stacks/Test33/Test33.iml" filepath="$PROJECT_DIR$/T01_Container&amp;Stacks/Test33/Test33.iml" />
+      <module fileurl="file://$PROJECT_DIR$/T03_Testing&amp;Mocking/Test_31.3.2016.iml" filepath="$PROJECT_DIR$/T03_Testing&amp;Mocking/Test_31.3.2016.iml" />
+    </modules>
+  </component>
+</project>
